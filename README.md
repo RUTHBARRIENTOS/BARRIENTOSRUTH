@@ -1,0 +1,2 @@
+# pseudocodigo-semana-2
+
